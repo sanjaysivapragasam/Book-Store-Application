@@ -1,0 +1,4 @@
+Life of Pi,3.14
+Learn Chess,25
+Book5,50
+Book8,50

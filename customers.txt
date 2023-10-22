@@ -1,0 +1,6 @@
+Sanjay,test1,2000
+Min,test2,700
+Jonah,test3,500
+Karen,test4,1000
+Abdallah,test5,200
+test,test,800
